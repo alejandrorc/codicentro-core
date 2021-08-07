@@ -116,7 +116,6 @@
             <groupId>com.lowagie</groupId>
             <artifactId>itext</artifactId>
             <version>${com.lowagie.itext.version}</version>
-            <scope>provided</scope>
         </dependency>
         <!-- MEDIA -->
         <!-- dependency>
